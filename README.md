@@ -73,7 +73,7 @@ Encrypted messages are decrypted with the RSA private key, retrieving the origin
 ## Running the Code
 - Clone the repository:
   ```
-  git clone https://github.com/Talkative-Banana/Driver-s-License-Verification-Protocol.git
+  git clone https://github.com/Talkative-Banana/Drivers-License-Verification-Protocol.git
   cd Driver-s-License-Verification-Protocol
   ```
  - To run the code, you need to keep all the files in a folder, then simple run Client.py using python Client.py in terminals, and TransportAuthority.py using python in another terminal. To generate Signed Certificates another file by the name of SignCert.py is available.
